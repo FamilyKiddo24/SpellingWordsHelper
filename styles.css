@@ -1,0 +1,79 @@
+/* Css Code */
+
+/* Header Css/Element */
+header {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+
+header h1 {
+    font-family: 'Caveat', serif;
+    line-height: 100px;
+    margin-top: 15px;
+    text-align: center;
+    margin: 0;
+    font-size: 65px;   
+}
+
+/* The Header Elements All Done */
+
+body {
+    margin-top: 120px;
+}
+
+/* For the other words section */
+
+#other-words {
+    text-align: center;
+}
+
+#other-words h1 {
+    text-decoration: underline;
+}
+
+#other-words p {
+    font-size: larger;
+    margin-top: -15px;
+    text-decoration: none;
+}
+
+/* End Of The Other Words Section */
+
+#first-line {
+    text-align: center;
+    font-size: x-large;
+    margin-top: -35px;
+}
+
+/* End Of The Line Separtion */
+
+body {
+    font-family: 'Nunito', serif;
+}
+
+#words-code {
+    text-align: center;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+/* End Of the Words-Code */
+#reminder h2{
+    text-align: center;
+    margin-top: -25px;
+}
+
+#last-line {
+    text-align: center;
+    font-size: x-large;
+    margin-top: -35px;
+}
